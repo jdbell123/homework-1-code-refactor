@@ -2,14 +2,16 @@
 
 CSS file for Horiseon index.html page. 
 
-Strcuture:
+Strucuture Overview:
     - GENERAL STYLES
-    - header STYLES
-    - .hero STYLES
-    - main STYLES
-    - aside STYLES
-    - footer STYLES
+    - header STYLES (Any elements that fall into the header element)
+    - .hero STYLES (The main cover image)
+    - main STYLES (Any elements that fall into the main element)
+    - aside STYLES (Any elements that fall into the aside element)
+    - footer STYLES (Any elements that fall into the footer element)
+
 Each section can be found by doing a search on ||
+
 Within each section we define in the following order:
     - Semantic elements (both generic and specific elements)
     - Classes
