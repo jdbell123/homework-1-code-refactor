@@ -74,7 +74,7 @@ Link here to website: [Horiseon Website](https://jdbell123.github.io/homework-1-
 
 Here is a screenshot of the entire website.
 
-![full website image](./Assets/images/horiseon_webpage.png "Website Image")
+![full website image](./assets/images/horiseon_webpage.png "Website Image")
 
 ---
 
@@ -87,7 +87,7 @@ Big shout out to Google for being my best friend during the week. Also, thanks t
 ## License
 
 
-Licensed under the [MIT](./Assets/license.txt) license.
+Licensed under the [MIT](./assets/license.txt) license.
 
 
 ---
