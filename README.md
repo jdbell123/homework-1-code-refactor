@@ -66,7 +66,7 @@ In general I need to do more practice on all the things I have learned  while do
 
 This project doesn't require any install steps. Just navigate to the URL to see the website.
 
-Link here to website: [Horiseon Website](https://jdbell123.github.io/homework-1-code-refactor/)
+* [Links](#links)
 
 ---
 
@@ -94,4 +94,6 @@ Licensed under the [MIT](./assets/license.txt) license.
 
 ## Links
 
-[GitHub Repo](https://jdbell123.github.io/homework-1-code-refactor/)
+[GitHub Repo](https://github.com/jdbell123/homework-1-code-refactor)
+
+[Website](https://jdbell123.github.io/homework-1-code-refactor/)
