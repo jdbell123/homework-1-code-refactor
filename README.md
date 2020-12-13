@@ -87,7 +87,7 @@ Big shout out to Google for being my best friend during the week. Also, thanks t
 ## License
 
 
-Licensed under the [MIT](./MIT_license.txt) license.
+Licensed under the [MIT](./Assets/license.txt) license.
 
 
 ---
